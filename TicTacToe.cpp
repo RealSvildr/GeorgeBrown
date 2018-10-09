@@ -88,6 +88,7 @@ int main()
 			cout << "Type 0 to finalize the game, or any other key to continue: ";
 			cin >> endGame;
 
+			winner = -1;
 			playingGame = isRunning = !(endGame == 0);
 		}
 	}
