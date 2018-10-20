@@ -60,7 +60,7 @@ void generateMenu() {
 	sysClear();
 	
 	cout << "---------------------------------" << endl;
-	cout << "||   Dev. By Felipe Ferreira   ||" << endl; 
+	cout << "||   Dev. By My Name and User ID || Thats Private   ||" << endl; 
 	cout << "---------------------------------" << endl << endl;
 	
 	cout << " Press " << endl;
