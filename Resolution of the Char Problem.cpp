@@ -39,7 +39,7 @@ void header(){
 	sysColor();
 	sysClear();
 	
-	cout << "User ID: 101181292" << endl;
+	cout << "User ID: XXXXXXXXXXX" << endl;
 }
 
 char getCh() {
